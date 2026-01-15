@@ -1,6 +1,3 @@
-<br>
-<br>
-<br>
 
 <div align="center">
   <img align="center" height="150" src="https://media.discordapp.net/attachments/1130505457660858391/1461420920408248400/ABS2GSmFJLKRer_RAo7tVimgYHy9mzRjDjMpsfmWi6yxCkXAwe6NCNWUDbk0xpZk5QarvBdDwcyvFh8NwVXfCKoBsVUUFCFS2oRku5XAGA8hvH_wNCfmYOOIJLdXkkJSs8ViP8iJWi3dv5ilwXcaw8IBmignXN-Lg7X6d-_5TPEe-c-LZMVxJgs1024-rj.png?ex=696a7dcb&is=69692c4b&hm=c715b0fd25278b652408461e28f580b278ea75ea452ca55a695a35d3c1aee97a&=&format=webp&quality=lossless&width=968&height=968" />
@@ -50,6 +47,7 @@
 
 
 </details>
+<br>
 
 <div align="center">
   <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=lgscabrera&style=flat-square&color=A020F0" /></p> 
