@@ -1,11 +1,11 @@
 <br>
 <br>
+
 <div align="center">
   <img align="center" height="150" src="https://media.discordapp.net/attachments/1130505457660858391/1461420920408248400/ABS2GSmFJLKRer_RAo7tVimgYHy9mzRjDjMpsfmWi6yxCkXAwe6NCNWUDbk0xpZk5QarvBdDwcyvFh8NwVXfCKoBsVUUFCFS2oRku5XAGA8hvH_wNCfmYOOIJLdXkkJSs8ViP8iJWi3dv5ilwXcaw8IBmignXN-Lg7X6d-_5TPEe-c-LZMVxJgs1024-rj.png?ex=696a7dcb&is=69692c4b&hm=c715b0fd25278b652408461e28f580b278ea75ea452ca55a695a35d3c1aee97a&=&format=webp&quality=lossless&width=968&height=968" />
 </div>
 
 <div align="center">
-  
   <b>`ルイス・ガブリエル`</b>
   <samp>
       <br>
@@ -13,12 +13,10 @@
   </samp>
 </div>
 
-<div align="center" width="500%">
+<div align="center" width="500%"> 
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=A020F0&center=true&vCenter=true&width=435&lines=Luiz+Gabriel+da+Silva+Cabrera;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Federal+de+Alfenas)](https://git.io/typing-svg)
-
 </div>
-
 
 <div align="center" style="display: inline_block"><br>
   <img width="40" alt="LG-C++" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
@@ -27,10 +25,10 @@
   <img width="40" alt="LG-CSS" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
   <img width="40" alt="LG-PYTHON" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />      
   <img width="40" alt="LG-HASKELL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" />   
-  
 </div>
 
 <br>
+
 <div align="center">
   <samp>
     <b>
@@ -39,28 +37,28 @@
   </samp>
   <br>
   <br>
-
+  
   [![Gmail](https://img.shields.io/badge/Gmail-A020F0?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:luizgabriel.cabreraa@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/luiz_cabrera_/)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-A020F0?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/luizgabrielcabrera/)
-  
 </div>
+
 <tr>
-<td valign="top" width="50%">
-<div>
-    <h2>💡 Atualmente Estudando:</h2>
-     - 🧮 Geometria Analítica<br>
-     - 📐 Cálculo II<br>
-     - 🐱‍👤 Matemática Discreta<br>
-     - 💻 Sistemas Operacionais<br>
-     - 👨‍💻 Algoritmos e Estruturas de Dados III<br>
-     - ☕ Programação Orientada a Objetos<br>
-     - 🦉 Programação Lógica<br>
-   </div>
-   </td>
+  <td valign="top" width="50%">
+    <div>
+      <h2>💡 Atualmente Estudando:</h2>
+      - 🧮 Geometria Analítica<br>
+      - 📐 Cálculo II<br>
+      - 🐱‍👤 Matemática Discreta<br>
+      - 💻 Sistemas Operacionais<br>
+      - 👨‍💻 Algoritmos e Estruturas de Dados III<br>
+      - ☕ Programação Orientada a Objetos<br>
+      - 🦉 Programação Lógica<br>
+    </div>
+  </td>
   <td valign="top" width="50%" align="right">
-     <div>
-       <h2>💬 Soft Skills:</h2>
+    <div>
+      <h2>💬 Soft Skills:</h2>
       - 🤝 Trabalho em Equipe<br>
       - 🗣️ Comunicação Assertiva<br>
       - 🧩 Resolução de Problemas<br>
@@ -69,8 +67,9 @@
       - 🚀 Proatividade<br>
       - 🔄 Adaptabilidade<br>
     </div>
-    </td>
-  </tr>
+  </td>
+</tr>
+
 <br>
 
 <div align="center">
