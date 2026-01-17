@@ -2,7 +2,7 @@
 <br>
 
 <div align="center">
-  <img align="center" height="150" src="https://github.com/lgscabrera/img/blob/main/portfólio.png" />
+  <img align="center" height="150" src="https://media.discordapp.net/attachments/1130505457660858391/1461420920408248400/ABS2GSmFJLKRer_RAo7tVimgYHy9mzRjDjMpsfmWi6yxCkXAwe6NCNWUDbk0xpZk5QarvBdDwcyvFh8NwVXfCKoBsVUUFCFS2oRku5XAGA8hvH_wNCfmYOOIJLdXkkJSs8ViP8iJWi3dv5ilwXcaw8IBmignXN-Lg7X6d-_5TPEe-c-LZMVxJgs1024-rj.png?ex=696d20cb&is=696bcf4b&hm=b58c19b12b1f778338a155549165045d1330280f0a66b1a735d539836d6f4daa&=&format=webp&quality=lossless&width=350&height=350" />
 </div>
 
 <div align="center">
