@@ -77,8 +77,10 @@
   <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=lgscabrera&style=flat-square&color=A020F0" /></p> 
 </div>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lgscabrera/lgscabrera/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lgscabrera/lgscabrera/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lgscabrera/lgscabrera/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <picture align="center">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lgscabrera/lgscabrera/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lgscabrera/lgscabrera/output/github-contribution-grid-snake-dark.svg">
+    <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lgscabrera/lgscabrera/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
