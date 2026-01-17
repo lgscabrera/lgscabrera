@@ -2,7 +2,7 @@
 <br>
 
 <div align="center">
-  <img align="center" height="150" src="https://github.com/lgscabrera/lgscabrera/blob/main/imagem_2026-01-17_013321460.png" />
+  <img align="center" height="150" src="https://github.com/lgscabrera/img/blob/main/portfólio.png" />
 </div>
 
 <div align="center">
