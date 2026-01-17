@@ -45,9 +45,32 @@
   [![Linkedin](https://img.shields.io/badge/LinkedIn-A020F0?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/luizgabrielcabrera/)
   
 </div>
-
-
-</details>
+<tr>
+<td valign="top" width="50%">
+<div>
+    <h2>💡 Atualmente Estudando:</h2>
+     - 🧮 Geometria Analítica<br>
+     - 📐 Cálculo II<br>
+     - 🐱‍👤 Matemática Discreta<br>
+     - 💻 Sistemas Operacionais<br>
+     - 👨‍💻 Algoritmos e Estruturas de Dados III<br>
+     - ☕ Programação Orientada a Objetos<br>
+     - 🦉 Programação Lógica<br>
+   </div>
+   </td>
+  <td valign="top" width="50%" align="right">
+     <div>
+       <h2>💬 Soft Skills:</h2>
+      - 🤝 Trabalho em Equipe<br>
+      - 🗣️ Comunicação Assertiva<br>
+      - 🧩 Resolução de Problemas<br>
+      - 🧠 Inteligência Emocional<br>
+      - 📅 Gestão de Tempo<br>
+      - 🚀 Proatividade<br>
+      - 🔄 Adaptabilidade<br>
+    </div>
+    </td>
+  </tr>
 <br>
 
 <div align="center">
@@ -59,3 +82,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lgscabrera/lgscabrera/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lgscabrera/lgscabrera/output/github-contribution-grid-snake.svg">
 </picture>
+
+</details>
