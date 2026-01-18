@@ -70,6 +70,11 @@
   </td>
 </tr>
 
+<div align="center">
+  
+  ![lgscabrera's Stats](https://github-readme-stats.vercel.app/api?username=lgscabrera&theme=jolly&show_icons=true&hide_border=true&count_private=true)
+  
+</div>
 <br>
 
 <div align="center">
