@@ -71,7 +71,7 @@
 </tr>
 
 <div align="left">
-  <h1>📊Github Stats:</h1>
+  <h2>📊Github Stats:</h1>
   
   ![lgscabrera's Stats](https://github-readme-stats.vercel.app/api?username=lgscabrera&theme=jolly&show_icons=true&hide_border=true&count_private=true)
 
