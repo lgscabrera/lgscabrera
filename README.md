@@ -70,14 +70,12 @@
   </td>
 </tr>
 
-<div align="left">
-  <h2>📊 GitHub Stats:</h1>
-  
-  ![lgscabrera's Stats](https://github-readme-stats.vercel.app/api?username=lgscabrera&theme=jolly&show_icons=true&hide_border=true&count_private=true)
+<h2 align="left">📊 GitHub Stats</h2>
 
-  ![lgscabrera's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lgscabrera&theme=jolly&show_icons=true&hide_border=true&layout=compact)
-  
-</div>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=lgscabrera&theme=midnight-purple&show_icons=true&count_private=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgscabrera&theme=midnight-purple&layout=compact&hide_border=true" />
+</p>
 <br>
 
 <div align="center">
