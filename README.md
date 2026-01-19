@@ -12,7 +12,7 @@
       Hi there! I'm <b>Luiz Gabriel </b>
   </samp>
 </div>
-
+a
 <div align="center" width="500%"> 
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=A020F0&center=true&vCenter=true&width=435&lines=Luiz+Gabriel+da+Silva+Cabrera;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Federal+de+Alfenas)](https://git.io/typing-svg)
