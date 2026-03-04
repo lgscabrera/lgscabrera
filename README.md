@@ -2,7 +2,7 @@
 <br>
 
 <div align="center">
-  <img align="center" height="150" src="https://media.discordapp.net/attachments/1130505457660858391/1461420920408248400/ABS2GSmFJLKRer_RAo7tVimgYHy9mzRjDjMpsfmWi6yxCkXAwe6NCNWUDbk0xpZk5QarvBdDwcyvFh8NwVXfCKoBsVUUFCFS2oRku5XAGA8hvH_wNCfmYOOIJLdXkkJSs8ViP8iJWi3dv5ilwXcaw8IBmignXN-Lg7X6d-_5TPEe-c-LZMVxJgs1024-rj.png?ex=696d20cb&is=696bcf4b&hm=b58c19b12b1f778338a155549165045d1330280f0a66b1a735d539836d6f4daa&=&format=webp&quality=lossless&width=350&height=350" />
+  <img align="center" height="150" src="https://media.discordapp.net/attachments/1130505457660858391/1461420920408248400/ABS2GSmFJLKRer_RAo7tVimgYHy9mzRjDjMpsfmWi6yxCkXAwe6NCNWUDbk0xpZk5QarvBdDwcyvFh8NwVXfCKoBsVUUFCFS2oRku5XAGA8hvH_wNCfmYOOIJLdXkkJSs8ViP8iJWi3dv5ilwXcaw8IBmignXN-Lg7X6d-_5TPEe-c-LZMVxJgs1024-rj.png?ex=69a91d0b&is=69a7cb8b&hm=95733b6a93d64152c2a2f04e3c65878ae983d3e0982f30d2423022be1588c445&=&format=webp&quality=lossless&width=656&height=656" />
 </div>
 
 <div align="center">
@@ -69,14 +69,6 @@
     </div>
   </td>
 </tr>
-
-<h2 align="left">📊 GitHub Stats</h2>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lgscabrera&theme=midnight-purple&show_icons=true&count_private=true&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgscabrera&theme=midnight-purple&layout=compact&hide_border=true" />
-</p>
-<br>
 
 <div align="center">
   <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=lgscabrera&style=flat-square&color=A020F0" /></p> 
