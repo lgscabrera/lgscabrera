@@ -2,7 +2,7 @@
 <br>
 
 <div align="center">
-  <img align="center" height="150" src="https://media.discordapp.net/attachments/1130505457660858391/1461420920408248400/ABS2GSmFJLKRer_RAo7tVimgYHy9mzRjDjMpsfmWi6yxCkXAwe6NCNWUDbk0xpZk5QarvBdDwcyvFh8NwVXfCKoBsVUUFCFS2oRku5XAGA8hvH_wNCfmYOOIJLdXkkJSs8ViP8iJWi3dv5ilwXcaw8IBmignXN-Lg7X6d-_5TPEe-c-LZMVxJgs1024-rj.png?ex=69a91d0b&is=69a7cb8b&hm=95733b6a93d64152c2a2f04e3c65878ae983d3e0982f30d2423022be1588c445&=&format=webp&quality=lossless&width=656&height=656" />
+  <img align="center" height="150" src="https://media.discordapp.net/attachments/1130505457660858391/1461420920408248400/ABS2GSmFJLKRer_RAo7tVimgYHy9mzRjDjMpsfmWi6yxCkXAwe6NCNWUDbk0xpZk5QarvBdDwcyvFh8NwVXfCKoBsVUUFCFS2oRku5XAGA8hvH_wNCfmYOOIJLdXkkJSs8ViP8iJWi3dv5ilwXcaw8IBmignXN-Lg7X6d-_5TPEe-c-LZMVxJgs1024-rj.png?ex=6a85478b&is=6a83f60b&hm=686bae0c45df1204d898886e88791e3b237bae248334d5c82c4c39aea34f1ce6&=&format=webp&quality=lossless&width=384&height=384" />
 </div>
 
 <div align="center">
