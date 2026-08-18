@@ -6,10 +6,9 @@
 </div>
 
 <div align="center">
-  <b>`ルイス・ガブリエル`</b>
   <samp>
       <br>
-      Hi there! I'm <b>Luiz Gabriel </b>
+      Hi there! I'm <b> </b>
   </samp>
 </div>
 
@@ -20,11 +19,8 @@
 
 <div align="center" style="display: inline_block"><br>
   <img width="40" alt="LG-C++" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
-  <img width="40" alt="LG-JAVASCRIPT" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
-  <img width="40" alt="LG-HTML" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
-  <img width="40" alt="LG-CSS" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
-  <img width="40" alt="LG-PYTHON" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />      
-  <img width="40" alt="LG-HASKELL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" />   
+  <img width="40" alt="LG-PYTHON" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
+  <img width="40" alt="LG-PYTHON" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /> 
 </div>
 
 <br>
@@ -45,16 +41,6 @@
 
 <tr>
   <td valign="top" width="50%">
-    <div>
-      <h2>💡 Atualmente Estudando:</h2>
-      - 🧮 Geometria Analítica<br>
-      - 📐 Cálculo II<br>
-      - 🐱‍👤 Matemática Discreta<br>
-      - 💻 Sistemas Operacionais<br>
-      - 👨‍💻 Algoritmos e Estruturas de Dados III<br>
-      - ☕ Programação Orientada a Objetos<br>
-      - 🦉 Programação Lógica<br>
-    </div>
   </td>
   <td valign="top" width="50%" align="right">
     <div>
