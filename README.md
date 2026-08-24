@@ -1,14 +1,7 @@
-<br>
-<br>
-
-<div align="center">
-  <img align="center" height="150" src="https://media.discordapp.net/attachments/1130505457660858391/1461420920408248400/ABS2GSmFJLKRer_RAo7tVimgYHy9mzRjDjMpsfmWi6yxCkXAwe6NCNWUDbk0xpZk5QarvBdDwcyvFh8NwVXfCKoBsVUUFCFS2oRku5XAGA8hvH_wNCfmYOOIJLdXkkJSs8ViP8iJWi3dv5ilwXcaw8IBmignXN-Lg7X6d-_5TPEe-c-LZMVxJgs1024-rj.png?ex=6a85478b&is=6a83f60b&hm=686bae0c45df1204d898886e88791e3b237bae248334d5c82c4c39aea34f1ce6&=&format=webp&quality=lossless&width=384&height=384" />
-</div>
-
 <div align="center">
   <samp>
       <br>
-      Hi there! I'm <b> </b>
+      Hi there!<b> </b>
   </samp>
 </div>
 
@@ -47,13 +40,10 @@
   <td valign="top" width="50%" align="right">
     <div>
       <h2>💬 Soft Skills:</h2>
-      - 🤝 Trabalho em Equipe<br>
-      - 🗣️ Comunicação Assertiva<br>
-      - 🧩 Resolução de Problemas<br>
-      - 🧠 Inteligência Emocional<br>
       - 📅 Gestão de Tempo<br>
-      - 🚀 Proatividade<br>
-      - 🔄 Adaptabilidade<br>
+      - 👨‍💻Capacidade Analítica<br>
+      - 🤔Raciocínio Lógico<br>
+      - 📚Aprendizado Rápido<br>
     </div>
   </td>
 </tr>
