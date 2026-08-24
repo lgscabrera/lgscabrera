@@ -1,3 +1,4 @@
+<div align="center"> <img src="./assets/banner.png" width="220" alt="banner"></div>
 <div align="center">
   <samp>
       <br>
@@ -39,36 +40,17 @@
   </a>
 </div>
 
-### 🚀 Em destaque
+<h3>🚀 Em destaque</h3>
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎓 Academic System</h4>
-      <p>Sistema de gestão acadêmica em Java/JavaFX — CLI + GUI, RBAC, persistência em TXT/XML/JSON, testes com JUnit/Mockito, CI/CD com GitHub Actions e Docker multi-stage.</p>
-      <a href="https://github.com/lgscabrera/TrabalhoFinal_POO">↗ Ver repositório</a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🧬 Pareamento de Sequências de DNA</h4>
-      <p>Alinhamento de sequências em C, comparando Programação Dinâmica e um algoritmo Guloso, com análise experimental de tempo e memória.</p>
-      <a href="https://github.com/lgscabrera/TP2_AEDsIII">↗ Ver repositório</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🗺️ Caminho Mais Curto em Grafos</h4>
-      <p>Implementação e comparação de Dijkstra, Duan (2025) e Bellman-Ford em diferentes topologias de grafo, com análise de desempenho em larga escala.</p>
-      <a href="https://github.com/lgscabrera/TP3_AEDsIII">↗ Ver repositório</a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🎒 Problema da Mochila</h4>
-      <p>Geração automatizada de instâncias variando tamanho, capacidade e correlação peso/valor, para testar desempenho dos algoritmos implementados.</p>
-      <a href="https://github.com/lgscabrera/TP4_AEDsIII">↗ Ver repositório</a>
-    </td>
-  </tr>
-</table>
+<table align="center"> <tr> <td width="50%" valign="top">
+  <h4>🎓 <a href="https://github.com/lgscabrera/TrabalhoFinal_POO">Academic System</a></h4> <p>Sistema de gestão acadêmica em Java/JavaFX, CLI + GUI, RBAC, persistência em TXT/XML/JSON, testes com JUnit/Mockito, CI/CD com GitHub Actions e Docker multi-stage.</p> </td> <td width="50%" valign="top">
+    
+  <h4>🧬 <a href="https://github.com/lgscabrera/TP2_AEDsIII">Pareamento de Sequências de DNA</a></h4> <p>Alinhamento de sequências em C, comparando Programação Dinâmica e um algoritmo Guloso, com análise experimental de tempo e memória.</p> </td> </tr> <tr> <td width="50%" valign="top">
+    
+  <h4>🗺️ <a href="https://github.com/lgscabrera/TP3_AEDsIII">Caminho Mais Curto em Grafos</a></h4> <p>Implementação e comparação de Dijkstra, Duan (2025) e Bellman-Ford em diferentes topologias de grafo, com análise de desempenho em larga escala.</p> </td> <td width="50%" valign="top">
+    
+  <h4>🎒 <a href="https://github.com/lgscabrera/TP4_AEDsIII">Problema da Mochila</a></h4> <p>Geração automatizada de instâncias variando tamanho, capacidade e correlação peso/valor, para testar desempenho dos algoritmos implementados.</p> </td> </tr> </table>
 
----
 
   <tr>
     <td valign="top" width="50%">
