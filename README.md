@@ -33,6 +33,13 @@
   [![Instagram](https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/luiz_cabrera_/)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-A020F0?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/luizgabrielcabrera/)
 </div>
+<div align="center">
+  <br>
+  <a href="https://lgscabrera.github.io/">
+    <img src="https://img.shields.io/badge/🌐_Ver_Portfólio-A020F0?style=for-the-badge&logoColor=fff" />
+  </a>
+  <br><br>
+</div>
 
 <tr>
   <td valign="top" width="50%">
